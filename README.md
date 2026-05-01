@@ -87,49 +87,45 @@ Crowdsourced Civic Issue Reporting and Resolution System which is quite helpful 
 
 ## **References**
 
-- [Wikipedia](https://wikipedia.com)
-<!--you can add refrences over here in same syntax as above -->
+- [Angular](https://angular.io/docs)
+- [Django](https://docs.djangoproject.com)
+- [PostgreSQL](https://www.postgresql.org/docs)
+- [Python](https://docs.python.org)
+- [REST API](https://www.django-rest-framework.org)
 ---
 
 
 ## **Learnings from LST and SST**
 
-<!-- add your experiences over here -->
-> _This is a placeholder. Replace the text below with your personal learning from LST and SST sessions summary._
-LST and SST sessions helped me....
+I have gone through evry LST's till now.You are providing Life Skill Development skills and Training for free.And they are very useful in our own growth and well-being.I am pleased to share that this LST sessions have educated me a lot and am feeling strong and confident to tackle everything that comes in the life.
+
 ---
 
 ## **Community Services**
 
-<!-- add descreption in your own words -->
+I am very happy that serving to the society in your strength and am willing to do so, but one thing that I hesitated the most is to take pictures in the act.
 
-During my internship period, I participated in multiple community-oriented activities .....<!-- add descreption in your own words -->
+During my internship period, I participated in multiple community-oriented activities. 
+
+This experience gave me strong willingness for be crucial for serving the society with my own strength.
 
 ### **Activities Involved**
-<!-- add the location where you given -->
-- **Blood Donation** – Donated blood and supported basic assistance tasks during the camp.
-  
- <!-- add the location where you have panted -->
+
+Near the hospital premises where shade is often needed particularly in summer period.
 - **Tree Plantation Drive** – Participated by planting trees and contributing to environmental improvement.
 
-  <!-- add the location where you helped -->
-- **Helping Elder Citizens** – Assisted two elderly individuals with simple daily tasks and provided support where needed. 
+At puttaparthi premises.
+- **Helping Elder Citizens** – Assisted four elderly individuals with simple daily tasks and provided support where needed. 
 
-<!-- you can write impacts according to your experience in your words-->
+My contibution towards serving nation couldn't create much impact,but the happiness in those faces is what makes me feel proud on myself.
 
 ### **Impact / Contribution**
 
-- Helped create a supportive environment during the blood donation camp. <!-- add the location where you given -->
 - Actively participated in promoting a greener and cleaner surroundings.
 - Offered personal assistance to elder citizens, strengthening community bonds.
 - Improved skills in communication, coordination, and social responsibility.
 
 ### **Photos**
-
-<!-- add your photos below -->
-<!-- change url below with your image urls (inside  src='')-->
-
-- These are just placeholder (sample) images <!-- remove this line -->
 
 <div align="center">
 <img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/1/1759752731458?e=1766016000&v=beta&t=7GABy91-0FNbir386wPdJ-Grr385JzS3tR5LQIw1CWg" alt="Community Service Photo 1" width="30%">
@@ -153,7 +149,9 @@ The internship certificate serves as an official acknowledgment of the successfu
 
 ## **Acknowledgments**
 
-<!-- you can add Acknowledgments over here in same syntax as below . eg trainer name , company name , role etc -->
+My sincere thanks to Akshara mam and Radhakumari mam for considering me to complete this internship with true dedication and determination.
+
+-[Ms. Akshara](https://www.linkedin.com/in/akshara-a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BoJyxDBacQi%2BE26nVgXH%2FUA%3D%3D) , Software Developer at Propel Technoly
 
 - [Prof. Radhakumari Challa](https://www.linkedin.com/in/prof-radhakumari-challa-a3850219b) , Executive Director and Founder - [SURE Trust](https://www.suretrustforruralyouth.com/)
 
