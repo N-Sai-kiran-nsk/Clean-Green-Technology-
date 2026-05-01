@@ -79,7 +79,7 @@ During my 4-month full stack development internship with SureProEd, guided by Ak
 Crowdsourced Civic Issue Reporting and Resolution System which is quite helpful for resolving civic problems in the society. I have used the knowledge which has been passed to me in the entire phase of internship program.
 </p>
 <p>
-  <a href="" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/N-Sai-kiran-nsk/Clean-Green-Technology-/blob/main/N%20Sai%20Kiran%20-%20G30%20FSD%20Project%20Report.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 <hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
