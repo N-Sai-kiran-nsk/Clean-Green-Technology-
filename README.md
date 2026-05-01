@@ -149,7 +149,7 @@ The internship certificate serves as an official acknowledgment of the successfu
 
 My sincere thanks to Akshara mam and Radhakumari mam for considering me to complete this internship with true dedication and determination.
 
--[Ms. Akshara](https://www.linkedin.com/in/akshara-a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BoJyxDBacQi%2BE26nVgXH%2FUA%3D%3D) , Software Developer at Propel Technoly
+- [Ms. Akshara](https://www.linkedin.com/in/akshara-a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BoJyxDBacQi%2BE26nVgXH%2FUA%3D%3D) , Software Developer at Propel Technoly
 
 - [Prof. Radhakumari Challa](https://www.linkedin.com/in/prof-radhakumari-challa-a3850219b) , Executive Director and Founder - [SURE Trust](https://www.suretrustforruralyouth.com/)
 
