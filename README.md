@@ -128,8 +128,8 @@ My contibution towards serving nation couldn't create much impact,but the happin
 ### **Photos**
 
 <div align="center">
-<img src="https://github.com/N-Sai-kiran-nsk/Clean-Green-Technology-/blob/main/community%20services/Food%20Service.jpeg" alt="Community Service Photo 1" width="30%">
-<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/2/1759752731458?e=1766016000&v=beta&t=6RfJQWWqlQUPcCvDnQNW7kR6yf7w-wPDsIPxum409ck" alt="Community Service Photo 2" width="30%">
+<img src="https://github.com/N-Sai-kiran-nsk/Clean-Green-Technology-/blob/main/community%20services/Food%20Service.jpeg" alt="Food Service" width="30%">
+<img src="https://github.com/N-Sai-kiran-nsk/Clean-Green-Technology-/blob/main/community%20services/Tree%20Plantation.jpeg" alt="Tree Plantation" width="30%">
 
 ---
 
